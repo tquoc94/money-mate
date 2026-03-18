@@ -1,5 +1,5 @@
 # qlct
-
+Nhóm 23  
 Chu Trung Quốc MSSV: 23010555  
 K17 CNTT_7
 
