@@ -1,6 +1,7 @@
 # qlct
 
-A new Flutter project.
+Chu Trung Quốc MSSV: 23010555
+K17 CNTT_7
 
 ## Getting Started
 
